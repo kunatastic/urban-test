@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kunatastic/urban-test#readme",
   "dependencies": {
-    "axios": "^0.23.0"
+    "axios": "^0.24.0"
   }
 }
